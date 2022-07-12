@@ -1,0 +1,10 @@
+file_type: csv
+dataset_name: file
+file_name: en-fr
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+      - fr
+      - en
+      
